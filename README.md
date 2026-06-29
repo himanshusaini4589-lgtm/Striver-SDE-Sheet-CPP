@@ -25,3 +25,15 @@ Solving [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-s
 
 ---
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0118-pascals-triangle) |
+<!---LeetCode Topics End-->
