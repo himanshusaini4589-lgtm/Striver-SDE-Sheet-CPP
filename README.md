@@ -33,6 +33,7 @@ Solving [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-s
 | ------- |
 | [0031-next-permutation](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0118-pascals-triangle) |
 ## Dynamic Programming
 |  |
@@ -43,8 +44,13 @@ Solving [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-s
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
