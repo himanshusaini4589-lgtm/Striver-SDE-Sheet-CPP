@@ -35,6 +35,7 @@ Solving [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-s
 | [0053-maximum-subarray](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0118-pascals-triangle) |
+| [0287-find-the-duplicate-number](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Solving [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-s
 | ------- |
 | [0031-next-permutation](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,4 +55,12 @@ Solving [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-s
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
