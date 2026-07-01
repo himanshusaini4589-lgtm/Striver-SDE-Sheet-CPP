@@ -63,4 +63,20 @@ Solving [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-s
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0287-find-the-duplicate-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0210-course-schedule-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0210-course-schedule-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/himanshusaini4589-lgtm/Striver-SDE-Sheet-CPP/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
